@@ -1,0 +1,8 @@
+## Interface: 11.0.7
+## Version: 1.0.0
+## Title: Karma Bar
+## Notes: Shows how much karma is left to burn
+## Author: Me
+## SavedVariables: KarmaBarDB
+
+KarmaBar.lua
